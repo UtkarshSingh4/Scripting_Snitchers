@@ -19,7 +19,7 @@ Scripting_Snitchers/
 ├──scripts├── legacy.py                 # Python script for Legacy (P2PKH) transactions
           ├── segwit.py                 # Python script for P2SH-SegWit transactions
           ├── transaction_comp.py       # Python script for comparing transaction details
-├── Bitcoin_Scripting_Assignment_Report.docx  # Detailed report (with placeholders for screenshots)
+├── Snitcher_Report.pdf  # Detailed report (with placeholders for screenshots)
 ├── README.md                 # This file
 ├── Debugger_Results
 └── Screenshot results
