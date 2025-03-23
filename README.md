@@ -21,7 +21,9 @@ Scripting_Snitchers/
           ├── transaction_comp.py       # Python script for comparing transaction details
 ├── Bitcoin_Scripting_Assignment_Report.docx  # Detailed report (with placeholders for screenshots)
 ├── README.md                 # This file
-└── [Additional PNG files]    # Screenshots of results (legacy_1.png, legacy_2.png, segwit_1.png, segwit_2.png, trans_comp_1.png, trans_comp_2.png)
+├── Debugger_Results
+└── Screenshot results
+    # Screenshots of results (legacy_1.png, legacy_2.png, segwit_1.png, segwit_2.png, trans_comp_1.png, trans_comp_2.png)
 ```
 
 ## Prerequisites
