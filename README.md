@@ -5,6 +5,13 @@
 
 **Scripting Snitchers** is a comprehensive project for the Bitcoin Scripting assignment in CS 216: Introduction to Blockchain. The repository contains Python solutions and associated resources to create, decode, and analyze Bitcoin transactions using two address formats: Legacy (P2PKH) and P2SH-SegWit (P2SH-P2WPKH). The project demonstrates how to connect to Bitcoin Core running in regtest mode, manage wallets, generate addresses, create transactions, and compare transaction metrics.
 
+## Team NAME : SNITCHER
+## Team Members
+
+- **Srujan Patel  - 230001063**
+- **Utkarsh Singh - 230041035**
+- **Rohan Sinha   - 230041030**
+- *(Add additional team members as necessary)*
 ## Repository Structure
 
 ```
@@ -152,9 +159,5 @@ A comprehensive report detailing the assignment workflow, analysis, and comparis
 **Bitcoin_Scripting_Assignment_Report.docx**  
 This report also contains placeholders for screenshots of the results, which should be updated with your actual output images.
 
-## Team Members
 
-- **[Team Member Name 1] - [Roll Number]**
-- **[Team Member Name 2] - [Roll Number]**
-- *(Add additional team members as necessary)*
 
