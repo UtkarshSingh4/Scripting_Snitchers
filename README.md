@@ -11,7 +11,7 @@
 - **Srujan Patel  - 230001063**
 - **Utkarsh Singh - 230041035**
 - **Rohan Sinha   - 230041030**
-- *(Add additional team members as necessary)*
+
 ## Repository Structure
 
 ```
